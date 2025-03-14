@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GDG QS Tile</string>
+    <string name="tile_name">GDG</string>
+    <string name="tile_state_name">GDG State</string>
+</resources>
